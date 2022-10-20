@@ -12,6 +12,7 @@ html {
 
 a {
   text-decoration: none;
+  color: #fff;
 }
 
 hr {
@@ -19,15 +20,15 @@ hr {
 }
 
 header {
-  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 15px;
-  background-color: #3c3a39;
+  background-color: #000;
   color: white;
 }
 
-#desktop-nav, #desktop-nav ul {
+#desktop-nav,
+#desktop-nav ul {
   display: none;
 }
 
