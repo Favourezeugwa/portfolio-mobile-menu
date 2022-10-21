@@ -6,7 +6,9 @@
 
 ## Built With
 
-
+- HTML
+- CSS
+- JAVASCRIPT
 
 
 ## Getting Started
@@ -19,18 +21,17 @@ To get a local copy up and running follow these simple example steps.
 Clone the repository and change the directory to blog
 
 ``` 
+  $ git clone git@github.com:Favourezeugwa/portfolio-mobile-menu.git
 
+  $ cd Mobile-Menu
 ```
 
-### Run the website
-
-``` 
-
-```
 
 ### Check linter errors
 ``` 
   $ npx eslint .
+  $ npx hint .
+  npx stylelint "**/*.{css,scss}"
 ```
 
 ### Author
@@ -45,7 +46,7 @@ Clone the repository and change the directory to blog
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Favourezeugwa/portfolio-mobile-menu/issues).
 
 ## Show your support
 
@@ -53,7 +54,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to Microverse
 
 ## 📝 License
 
